@@ -53,29 +53,3 @@ print(f'{parkingGarage.takeTicket()}')
 print(f'{parkingGarage.payForParking()}')
 print(f'{parkingGarage.leaveGarage()}')
 
-
-
-# parkingGarage = parkingGarage()
-# print()
-# print(f'The number of Parking Spaces are: {parkingGarage.spacesAvailable()}.')
-# parkingGarage.addVehicle(Vehicle('L34VG34', 'Sedan', 'Honda', 'Accord', 'Red'))
-# parkingGarage.addVehicle(Vehicle('U21TEV3', 'Coupe', 'Porsche', 'Carrera', 'Blue'))
-# parkingGarage.addVehicle(Vehicle('H97VG34', 'Motorcycle', 'Ducati', 'Panigale V4', 'Red'))
-# parkingGarage.vehiclesParked()
-# print(takeTicket.ticketsAvailable())
-# print(f'The number of Current Parking Spaces Available are: {parkingGarage.spacesAvailable()}.')
-# print(f'Time to Pay for Parking: {payForParking()}.')
-
-
-# print(parkingGarage.billTime())
-
-# print(f"The total parking spaces in the garage are: {parkingGarage.parkingSpaces()}")
-
-# print(f"There are {parkingGarage.currentParkingTickets} cars in the garage.")
-# fancyGarage.takeTicket(1)
-# print(f"The available parking spaces in the garage: {fancyGarage.currentParkingSpaces_available}")
-
-# print(parkingGarage.parkingTime)
-# print(parkingGarage.TotalTime)
-# print(parkingGarage.payForParking())
-
